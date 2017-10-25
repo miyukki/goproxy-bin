@@ -4,12 +4,11 @@
 [[projects]]
   name = "github.com/elazarl/goproxy"
   packages = ["."]
-  revision = "0a5b8bdb09049ae4ae68e75437ded0b7a2e324e3"
-  version = "v1.0"
+  revision = "aacba83f36a55ac31cbb71c06547a328c0cd1604"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "34ef485b0f78cae761861dee46edbee02bf187a9f37adbe70cb7529f461cfccc"
+  inputs-digest = "2a607ff9e3db991c715fbe6f239aa31798cb7de3c6e4f6f348df710f4d29babe"
   solver-name = "gps-cdcl"
   solver-version = 1

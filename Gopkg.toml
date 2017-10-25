@@ -23,4 +23,4 @@
 
 [[constraint]]
   name = "github.com/elazarl/goproxy"
-  version = "1.0.0"
+  revision = "aacba83f36a55ac31cbb71c06547a328c0cd1604"
